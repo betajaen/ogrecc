@@ -1,0 +1,3 @@
+h1. What is this.
+
+This is the official documentation and usage of OgreCC.
